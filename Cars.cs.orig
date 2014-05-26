@@ -1,0 +1,9 @@
+public class Cars
+{
+<<<<<<< HEAD
+  publi string NameWWWWW {get;set;}
+=======
+  publi string Name222222 {get;set;}
+>>>>>>> 04e8a559ff3693df7f0e17096c1e3822ffa2a250
+
+}
